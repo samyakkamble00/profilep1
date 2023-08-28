@@ -1,0 +1,23 @@
+.navBar{
+	display: flex;
+	justify-content: space-between;
+	max-width: 1250px;
+	margin: auto;
+	gap: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	/* border-bottom: 2px solid black; */
+}
+.ule{
+	border-bottom: 2px solid black;
+}
+.ule:hover{
+	border-bottom: 2px solid black;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+	border-bottom: 2px solid black;
+}
